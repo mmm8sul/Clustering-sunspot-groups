@@ -12,7 +12,7 @@ This repository contains a sunspot cluster dataset and a sunspot clustering mode
 Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot groups observed at the [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/) for the period 2010-2020.
 
 Folder [notebooks](./notebooks) contains 
-* [Model_training.ipynb](./notebooks/1.Model_training.ipynb) - description of the sunspot parametrization model and model training process;
-* [Latent_space_exploration.ipynb](./notebooks/2.Latent_space_exploration.ipynb) - demonstration of latent features and its relation to physical properties of sunspot groups.
+* [Model_training.ipynb](./notebooks/1.Model_training.ipynb) - description of the sunspot clustering model and model training process;
+* [Latent_space_exploration.ipynb](./notebooks/2.Latent_space_exploration.ipynb) - analysis of the results of sunspot group clustering and interpretation of clusters.
 
 To save disk space, some files are archived in `zip` format.
