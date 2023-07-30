@@ -3,27 +3,15 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org)
 [![heilo](https://img.shields.io/badge/helio-119EFF?style=for-the-badge&logo=helio&logoColor=white)](https://observethesun.github.io/helio/)
-## Sunspot groups
+## Clustering sunspot groups
 
-This repository contains the dataset of sunspot groups, sunspot parametrization model and latent vectors. With these data one can reproduce the results presented in the paper [Parametrization of sunspot groups based on machine learning approach](https://link.springer.com/article/10.1007/s11207-022-01955-0).
+This repository contains sunspot group clustering notebooks.
 
-### Demo
 
-Online demo with the sunspot parametrization model is available at
-[https://sun.njit.edu/sunspots](https://sun.njit.edu/sunspots)
-
-### Installation
-
-Clone the repository with its submodules
-```
-git clone --recursive https://github.com/observethesun/sunspot_groups.git
-```
 
 ### Content
 
-Folder [dataset](./dataset) contains 
-* sunspot_dataset - a dataset of sunspot groups observed at the [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/) for the period 2010--2020;
-* sunspot_group_properties.csv - a table with position, area and other properties of sunspot groups.
+Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot groups observed at the [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/) for the period 2010-2020.
 
 Read more about the dataset [here](./dataset/README.md).
 
