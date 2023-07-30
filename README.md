@@ -19,6 +19,4 @@ Folder [notebooks](./notebooks) contains
 * [Model_training.ipynb](./notebooks/1.Model_training.ipynb) - description of the sunspot parametrization model and model training process;
 * [Latent_space_exploration.ipynb](./notebooks/2.Latent_space_exploration.ipynb) - demonstration of latent features and its relation to physical properties of sunspot groups.
 
-Finally, the folder [latent_vectors](./latent_vectors) contains latent vectors obtained with the sunspot parametrization model for all sunspot groups in the dataset.
-
 To save disk space, some files are archived in `zip` format.
