@@ -5,7 +5,7 @@
 [![heilo](https://img.shields.io/badge/helio-119EFF?style=for-the-badge&logo=helio&logoColor=white)](https://observethesun.github.io/helio/)
 ## Clustering sunspot groups
 
-This repository contains sunspot group clustering notebooks.
+This repository contains a sunspot cluster dataset and a sunspot clustering model based on a machine learning approach.
 
 
 
