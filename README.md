@@ -7,13 +7,9 @@
 
 This repository contains a sunspot cluster dataset and a sunspot clustering model based on a machine learning approach.
 
-
-
 ### Content
 
 Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot groups observed at the [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/) for the period 2010-2020.
-
-Read more about the dataset [here](./dataset/README.md).
 
 Folder [notebooks](./notebooks) contains 
 * [Model_training.ipynb](./notebooks/1.Model_training.ipynb) - description of the sunspot parametrization model and model training process;
