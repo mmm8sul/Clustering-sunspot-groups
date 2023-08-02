@@ -13,6 +13,6 @@ Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot grou
 
 Folder [notebooks](./notebooks) contains 
 * [Model_training.ipynb](./notebooks/Model_training.ipynb) - description of the sunspot clustering model and model training process;
-* [Interpretation_of_clusters.ipynb](.notebooks/Interpretation_of_clusters.ipynb) - analysis of the results of sunspot group clustering and interpretation of clusters.
+* [Interpretation_of_clusters.ipynb](./notebooks/Interpretation_of_clusters.ipynb) - analysis of the results of sunspot group clustering and interpretation of clusters.
 
 To save disk space, some files are archived in `zip` format.
