@@ -14,6 +14,7 @@ Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot grou
 Folder [notebooks](./notebooks) contains 
 * [Model_training.ipynb](./notebooks/sunspots-training.ipynb) - description of the sunspot clustering model and model training process;
 * [Interpretation_of_clusters.ipynb](./notebooks/clustering-invariant-rotation-embeddings.ipynb) - clustering of rotarion invariant encoder embeddings.
+* [sunspot_dataset_labeling.ipynb](./notebooks/sunspot_dataset_labeling.ipynb) - getting labels of groups of sunspots by physical properties.
 
 
 
