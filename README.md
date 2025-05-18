@@ -18,7 +18,6 @@ Folder [notebooks](./notebooks) contains
 * [merge-type-sunspots.ipynb](./notebooks/merge-type-sunspots.ipynb) - adding types to the groups of the Kislovodsk Mountain Astronomical Station from the Locarno Observatory;
 * [search-best-clustering-alghoritm.ipynb](./notebooks/search-best-clustering-alghoritm.ipynb) - clustering of embeddings of variational and invariant autoencoder;
 
-
-
+Folder [results clustering](./results clustering) contains the results of clustering embeddings of variational and invariant autoencoder on a grid of parameters.
 
 
