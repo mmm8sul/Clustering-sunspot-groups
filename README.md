@@ -12,12 +12,12 @@ This repository contains a sunspot cluster dataset and a sunspot clustering mode
 Folder [dataset](./dataset) contains sunspot_dataset - a dataset of sunspot groups observed at the [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/) for the period 2010-2020.
 
 Folder [notebooks](./notebooks) contains 
-* [Model_training.ipynb](./notebooks/sunspots-training.ipynb) - description of the sunspot clustering model and model training process;
-* [Interpretation_of_clusters.ipynb](./notebooks/clustering-invariant-rotation-embeddings.ipynb) - clustering of rotarion invariant encoder embeddings;
+* [sunspots-training.ipynb](./notebooks/sunspots-training.ipynb) - description of the sunspot clustering model and model training process;
+* [clustering-invariant-rotation-embeddings.ipynb](./notebooks/clustering-invariant-rotation-embeddings.ipynb) - clustering of rotarion invariant encoder embeddings;
 * [sunspot_dataset_labeling.ipynb](./notebooks/sunspot_dataset_labeling.ipynb) - getting labels of groups of sunspots by physical properties;
 * [Data Parsing Locarno.ipynb](./notebooks/Data%20Parsing%20Locarno.ipynb) - obtaining data from the Locarno Observatory website;
 * [merge-type-sunspots.ipynb](./notebooks/merge-type-sunspots.ipynb) - adding types to the groups of the Kislovodsk Mountain Astronomical Station from the Locarno Observatory;
-* [search-best-clustering-alghoritm.ipynb](./notebooks/search-best-clustering-alghoritm.ipynb) - clustering of embeddings of variational and invariant autoencoder;
+* [clustering on a grid of parameters.ipynb](./notebooks/search-best-clustering-alghoritm.ipynb) - clustering of embeddings of variational and invariant autoencoder;
 
 Folder [results clustering](./results%20clustering) contains the results of clustering embeddings of variational and invariant autoencoder on a grid of parameters.
 
