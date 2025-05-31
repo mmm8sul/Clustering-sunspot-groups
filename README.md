@@ -17,7 +17,7 @@ Folder [notebooks](./notebooks) contains
 * [sunspot_dataset_labeling.ipynb](./notebooks/sunspot_dataset_labeling.ipynb) - getting labels of groups of sunspots by physical properties;
 * [Data Parsing Locarno.ipynb](./notebooks/Data%20Parsing%20Locarno.ipynb) - obtaining data from the Locarno Observatory website;
 * [merge-type-sunspots.ipynb](./notebooks/merge-type-sunspots.ipynb) - adding types to the groups of the Kislovodsk Mountain Astronomical Station from the Locarno Observatory;
-* [clustering on a grid of parameters.ipynb](./notebooks/search-best-clustering-alghoritm.ipynb) - clustering of embeddings of variational and invariant autoencoder;
+* [clustering on a grid of parameters.ipynb](./notebooks/search-best-clustering-alghoritm.ipynb) - clustering of embeddings of variational and invariant autoencoder on a grid of parameters;
 
 Folder [results clustering](./results%20clustering) contains the results of clustering embeddings of variational and invariant autoencoder on a grid of parameters.
 
